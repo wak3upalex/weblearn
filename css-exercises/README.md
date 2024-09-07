@@ -1,0 +1,1 @@
+This directory is a copy of https://github.com/TheOdinProject/css-exercises/tree/main

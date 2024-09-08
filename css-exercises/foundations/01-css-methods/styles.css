@@ -1,0 +1,21 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "SF Pro Display", sans-serif;
+}
+
+p {
+    font-family: "SF Pro Display", sans-serif;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    font-family: "SF Pro Display", sans-serif;
+    background-color: orange;
+    font-size: 18px;
+}
